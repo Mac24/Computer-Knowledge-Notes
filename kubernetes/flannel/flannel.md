@@ -30,7 +30,7 @@
   5. Flannel.1设备查看数据包，根据路由表匹配，将数据发送给Cni0设备。
   6. Cni0匹配路由表，发送数据给网桥上对应的端口。
 
-  ![](./img/flannel原理.PNG)
+  ![](img/flannel work flow.PNG)
 
 ### 四、例子
 
